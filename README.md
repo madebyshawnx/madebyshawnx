@@ -4,7 +4,6 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -29,28 +28,6 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 <div>
     <img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
-
-### Development & APIs
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-</div>
-
-### Analytics & Observability
-<div>
-    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Looker-4285F4?&style=for-the-badge&logo=Looker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amplitude-0168FF?&style=for-the-badge&logo=Amplitude&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?&style=for-the-badge&logo=Google%20Analytics&logoColor=white" />
-</div>
-
-### Product & Collaboration
-<div>
-    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=Confluence&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />
-</div>
-
 
 ## Certifications
 <div>
