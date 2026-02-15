@@ -6,23 +6,23 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 ## IT Administration
 | Description | Associated Project |
 |---|---|
-| Active Directory Domain Services Configuration | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Configure AD DS on EC2</a> |
-| Active Directory User & Group Management | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">Create Users, OUs & Groups</a> |
-| PowerShell Automation (ServiceNow) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">Provision ServiceNow Tickets</a> |
-| PowerShell Automation (Active Directory) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">Provision AD Users</a> |
+| How To Configure Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Configure AD DS on EC2</a> |
+| How To Configure Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">Create Users, OUs & Groups</a> |
+| Automating Ticket Provisioning in ServiceNow with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">Provision ServiceNow Tickets</a> |
+| Active Directory: Provision Users with PowerShell (Bulk Automation) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">Provision AD Users</a> |
 
 ## Cloud
 | Description | Associated Project |
 |---|---|
-| AWS EC2 Deployment & Windows Server Administration | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">Launch Windows VM via RDP</a> |
-| AWS Key Pair Recovery & Instance Access | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Lost Key Pair Recovery</a> |
-| Static Website Hosting on AWS | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Host a Static Website</a> |
+| How To Create A Virtual Machine In AWS | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">Launch Windows VM via RDP</a> |
+| AWS EC2: Recover Access After Losing Your Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Lost Key Pair Recovery</a> |
+| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Host a Static Website</a> |
 
 ## Cybersecurity
 | Description | Associated Project |
 |---|---|
-| Vulnerability Scanning (Azure / Tenable) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans in Azure</a> |
-| Vulnerability Scanning (Linux / Tenable) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans on Linux VM</a> |
+| Setting Up and Scanning a Windows VM with Tenable | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans in Azure</a> |
+| Running Vulnerability Scans on a Linux VM | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans on Linux VM</a> |
 | SIEM Implementation and Log Analysis | Detection Lab |
 | Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
@@ -30,7 +30,7 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 | Case Management with TheHive | SOC Automation Lab |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab |
 
-## AI
+## Artificial Intelligence / Machine Learning
 | Description | Associated Project |
 |---|---|
 | Coming Soon | |
@@ -71,5 +71,3 @@ I’m deeply interested in technology and love solving complex problems. Checkou
   <img src="https://img.shields.io/badge/-Prosci%20ADKAR-00A651?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-E.I.T.-FF6F00?&style=for-the-badge&logoColor=white" />
 </div>
-
-
