@@ -6,23 +6,23 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 ## IT Administration
 | Description | Associated Project |
 |---|---|
-| Configuring Active Directory Domain Services | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">AD DS Configuration</a> |
-| Managing Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">AD Users, OUs & Groups</a> |
-| Automating ServiceNow Ticket Provisioning with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">ServiceNow Provisioning</a> |
-| Bulk User Provisioning in Active Directory with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">AD Bulk Provisioning</a> |
+| Configuring Active Directory Domain Services | 
+| Managing Users, OUs, and Groups in Active Directory | 
+| Automating ServiceNow Ticket Provisioning with PowerShell | 
+| Bulk User Provisioning in Active Directory with PowerShell |
 
 ## Cloud
 | Description | Associated Project |
 |---|---|
-| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows VM</a> |
-| Recovering EC2 Access After a Lost Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Key Recovery</a> |
-| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Azure Static Site</a> |
+| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/madebyshawnx/Cloud-Techniques/blob/main/Labs/001-aws-ec2-launch-windows-vm-rdp/How%20To%20Create%20A%20Virtual%20Machine%20In%20AWS.md">EC2 Windows VM</a> |
+| Recovering EC2 Access After a Lost Key Pair | 
+| Hosting a Static Website on Azure | 
 
 ## Cybersecurity
 | Description | Associated Project |
 |---|---|
-| Running Tenable Vulnerability Scans on a Windows VM in Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans (Azure)</a> |
-| Running Tenable Vulnerability Scans on a Linux VM | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans (Linux)</a> |
+| Running Tenable Vulnerability Scans on a Windows VM in Azure | 
+| Running Tenable Vulnerability Scans on a Linux VM | 
 | SIEM Implementation and Log Analysis | Detection Lab |
 | Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
