@@ -14,7 +14,7 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 ## Cloud
 | Description | Associated Project |
 |---|---|
-| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows VM</a> |
+| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows VM</a> |
 | Recovering EC2 Access After a Lost Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Key Recovery</a> |
 | Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Azure Static Site</a> |
 
