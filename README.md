@@ -48,6 +48,14 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-PMP-2E3A87?&style=for-the-badge&logo=pmi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SAFe%20POPM-FFB800?&style=for-the-badge&logo=scaled-agile-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PSPO%20I-0072C6?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PSM%20I-009FDA?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PAL%20I-6A1B9A?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prosci%20ADKAR-00A651?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-E.I.T.-FF6F00?&style=for-the-badge&logoColor=white" />
+</div>
