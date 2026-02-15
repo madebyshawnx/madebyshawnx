@@ -6,23 +6,23 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 ## IT Administration
 | Description | Associated Project |
 |---|---|
-| How To Configure Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Configure AD DS on EC2</a> |
-| How To Configure Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">Create Users, OUs & Groups</a> |
-| Automating Ticket Provisioning in ServiceNow with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">Provision ServiceNow Tickets</a> |
-| Active Directory: Provision Users with PowerShell (Bulk Automation) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">Provision AD Users</a> |
+| Configuring Active Directory Domain Services | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Active Directory Setup</a> |
+| Managing Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">AD User & Group Management</a> |
+| Automating ServiceNow Ticket Provisioning with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">ServiceNow Automation</a> |
+| Bulk User Provisioning in Active Directory with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">AD Bulk Provisioning</a> |
 
 ## Cloud
 | Description | Associated Project |
 |---|---|
-| How To Create A Virtual Machine In AWS | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">Launch Windows VM via RDP</a> |
-| AWS EC2: Recover Access After Losing Your Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Lost Key Pair Recovery</a> |
-| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Host a Static Website</a> |
+| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows Deployment</a> |
+| Recovering EC2 Access After a Lost Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Key Pair Recovery</a> |
+| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Azure Static Site Hosting</a> |
 
 ## Cybersecurity
 | Description | Associated Project |
 |---|---|
-| Setting Up and Scanning a Windows VM with Tenable | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans in Azure</a> |
-| Running Vulnerability Scans on a Linux VM | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans on Linux VM</a> |
+| Running Tenable Vulnerability Scans on a Windows VM in Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans (Azure)</a> |
+| Running Tenable Vulnerability Scans on a Linux VM | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans (Linux)</a> |
 | SIEM Implementation and Log Analysis | Detection Lab |
 | Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Security Automation with Shuffle SOAR | SOC Automation Lab |
@@ -71,3 +71,6 @@ I’m deeply interested in technology and love solving complex problems. Checkou
   <img src="https://img.shields.io/badge/-Prosci%20ADKAR-00A651?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-E.I.T.-FF6F00?&style=for-the-badge&logoColor=white" />
 </div>
+
+## Connect With Me
+<a href="https://www.linkedin.com/in/dthomas1906"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
