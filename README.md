@@ -116,97 +116,64 @@ Structural engineer turned systems builder. Background in construction technolog
 
 
 
+Good call — let me keep it consistent with the table format you already had. Here's the updated version:
+
 ```markdown
-# Hello, I’m Shawn
+# Hello, I'm SHAWN
+<a href="https://www.linkedin.com/in/dthomas1906"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I started in **structural engineering**, working on complex real-world systems where precision, safety, and reliability matter. That foundation pulled me into **construction technology**, and from there I followed the systems behind modern projects—**IT infrastructure, cloud platforms, security, automation, and product execution**.
+Structural engineer turned systems builder. Background in construction technology, now focused on cloud infrastructure, automation, AI, cybersecurity, and product development. I design scalable, secure systems that bring structure to complexity and strengthen operational resilience.
 
-Today I’m building a hands-on portfolio as a **Hybrid Cloud + Security + Product builder**—setting up real environments, securing them, automating the work, and documenting everything end-to-end.
-
----
-
-## What I’m Building
-
-This GitHub is organized by focus area so it’s easy to scan:
-
-- **☁️ Cloud & Infrastructure** — AWS/Azure environments, Windows/Linux systems, access + recovery, basic platform setup  
-- **🔐 Cybersecurity & Vulnerability Management** — scanning, hardening foundations (AD), detection-oriented labs  
-- **🧰 IT Operations & Automation** — provisioning workflows, PowerShell automation, service management patterns  
-- **📦 Product & Systems Thinking** — structured problem framing, documentation, repeatable playbooks, roadmap-style lab progression  
-- **🤖 AI (Coming Soon)** — applied AI automation concepts and practical experiments tied to ops + security workflows
-
----
-
-## Labs (Current Portfolio)
-
-### ☁️ Cloud & Infrastructure (AWS + Azure)
-- **001 — AWS EC2: Launch Windows VM + RDP**
-- **004 — AWS EC2: Lost Key Pair Recovery**
-- **007 — Host a Static Website**
-- **008 — Azure: Set Up a VM + Run Tenable Vulnerability Scans**
-- **009 — Linux VM: Run Vulnerability Scans**
-
-### 🔐 Security Foundations (Active Directory + Identity)
-- **002 — Configure Active Directory (AD DS)**
-- **003 — AD: Create Users, OUs, and Groups**
-- **006 — AD: Provision Users with PowerShell**
-
-### 🧰 IT Ops & Service Management
-- **005 — ServiceNow: Provision Tickets with PowerShell**
-
-> I’m continuing to add labs that connect the dots across **cloud + identity + vulnerability management + automation + operational workflows**.
-
----
-
-## Featured Repos (Quick Links)
-> (I’ll keep these updated as each lab README is polished.)
-
-- **Cloud Labs**
-  - `001-aws-ec2-launch-windows-vm-rdp`
-  - `004-aws-ec2-lost-key-pair-recovery`
-  - `007-how-to-host-a-static-website`
-  - `008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure`
-  - `009-running-vulnerability-scans-on-a-linux-virtual-machine`
-
-- **Identity / AD Labs**
-  - `002-aws-ec2-configure-active-directory-adds`
-  - `003-active-directory-create-users-ous-groups`
-  - `006-active-directory-provision-users-powershell`
-
-- **Ops Automation**
-  - `005-servicenow-provision-tickets-powershell`
-
----
-
-## Core Skills (Mapped to Work)
-
-| Capability | What I’m Doing Here |
+## Cloud & Infrastructure
+| Skill | Associated Project |
 |---|---|
-| Hybrid Cloud Fundamentals (AWS/Azure) | Building and configuring Windows/Linux environments, access, and deployment patterns |
-| Identity & Access Foundations | Implementing and administering Active Directory: OUs, groups, users, provisioning |
-| Vulnerability Management | Running Tenable scans, interpreting findings, and documenting remediation paths |
-| Scripting & Automation | PowerShell-based automation for provisioning and operational workflows |
-| Operational Documentation | Writing repeatable lab runbooks and clean, step-by-step READMEs |
-| Product & Systems Thinking | Structuring work into progressive labs, clear outcomes, and reusable patterns |
+| AWS EC2 Deployment & Windows Server Administration | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">Launch Windows VM via RDP</a> |
+| Active Directory Domain Services Configuration | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Configure AD DS on EC2</a> |
+| Active Directory User & Group Management | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">Create Users, OUs & Groups</a> |
+| AWS Key Pair Recovery & Instance Access | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Lost Key Pair Recovery</a> |
+| Static Website Hosting on AWS | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Host a Static Website</a> |
 
----
+## Cybersecurity
+| Skill | Associated Project |
+|---|---|
+| Vulnerability Scanning (Azure / Tenable) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure">Tenable Scans in Azure</a> |
+| Vulnerability Scanning (Linux / Tenable) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/009-running-vulnerability-scans-on-a-Linux-virtual-machine">Tenable Scans on Linux VM</a> |
 
-## Tools & Platforms
+## Automation & Scripting
+| Skill | Associated Project |
+|---|---|
+| PowerShell Automation (ServiceNow) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">Provision ServiceNow Tickets</a> |
+| PowerShell Automation (Active Directory) | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">Provision AD Users</a> |
 
-### Cloud & Data
+## AI
+| Skill | Associated Project |
+|---|---|
+| Coming Soon | |
+
+## Product Management
+| Skill | Associated Project |
+|---|---|
+| Coming Soon | |
+
+## Tools
+### Cloud & Infrastructure
 <div>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </div>
 
 ### Security & Vulnerability Management
 <div>
-  <img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
----
+### Automation & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
@@ -219,18 +186,6 @@ This GitHub is organized by focus area so it’s easy to scan:
   <img src="https://img.shields.io/badge/-Prosci%20ADKAR-00A651?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-E.I.T.-FF6F00?&style=for-the-badge&logoColor=white" />
 </div>
-
----
-
-## What’s Next
-- Expand security labs from **vuln scanning → remediation → hardening baselines**
-- Add **logging + monitoring** (Windows Event Logs, Sysmon, cloud-native logging)
-- Add **incident workflow practice** (triage, escalation, case notes)
-- Add **automation upgrades** (repeatable scripts + runbooks)
-- Publish **AI-assisted ops experiments** (safe, practical, human-in-the-loop)
-
----
-
-If you’re interested in collaborating, reviewing a lab, or discussing cloud/security/product work, feel free to connect.
 ```
 
+Now the domain sections (Cloud, Cybersecurity, Automation, AI, Product Management) each use the same table format with Skill + Associated Project columns. Much cleaner and consistent. Just swap `YOUR_USERNAME` with your GitHub handle. Want any tweaks?
