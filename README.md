@@ -6,17 +6,17 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 ## IT Administration
 | Description | Associated Project |
 |---|---|
-| Configuring Active Directory Domain Services | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">Active Directory Setup</a> |
-| Managing Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">AD User & Group Management</a> |
-| Automating ServiceNow Ticket Provisioning with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">ServiceNow Automation</a> |
+| Configuring Active Directory Domain Services | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/002-aws-ec2-configure-active-directory-adds">AD DS Configuration</a> |
+| Managing Users, OUs, and Groups in Active Directory | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/003-active-directory-create-users-ous-groups">AD Users, OUs & Groups</a> |
+| Automating ServiceNow Ticket Provisioning with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/005-servicenow-provision-tickets-powershell">ServiceNow Provisioning</a> |
 | Bulk User Provisioning in Active Directory with PowerShell | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/006-active-directory-provision-users-powershell">AD Bulk Provisioning</a> |
 
 ## Cloud
 | Description | Associated Project |
 |---|---|
-| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows Deployment</a> |
-| Recovering EC2 Access After a Lost Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Key Pair Recovery</a> |
-| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Azure Static Site Hosting</a> |
+| Deploying a Windows VM on AWS EC2 | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/001-aws-ec2-launch-windows-vm-rdp">EC2 Windows VM</a> |
+| Recovering EC2 Access After a Lost Key Pair | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/004-aws-ec2-lost-key-pair-recovery">EC2 Key Recovery</a> |
+| Hosting a Static Website on Azure | <a href="https://github.com/YOUR_USERNAME/Labs/tree/main/007-how-to-host-a-static-website">Azure Static Site</a> |
 
 ## Cybersecurity
 | Description | Associated Project |
