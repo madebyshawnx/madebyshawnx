@@ -17,6 +17,7 @@ I’m deeply interested in technology and love solving complex problems. Checkou
 | Deploying a Windows VM on AWS EC2 | <a href="https://github.com/madebyshawnx/Cloud-Techniques/blob/main/Labs/001-aws-ec2-launch-windows-vm-rdp/How%20To%20Create%20A%20Virtual%20Machine%20In%20AWS.md">EC2 Windows VM</a> |
 | Recovering EC2 Access After a Lost Key Pair | EC2 Key Recovery |
 | Hosting a Static Website on Azure | <a href="https://github.com/madebyshawnx/Cloud-Techniques/blob/main/Labs/007-how-to-host-a-static-website/Hosting_a_Static_Website_on_Azure.md">Azure Static Site</a> |
+| Deploying a Two-Tier Architecture in Azure | <a href="https://github.com/madebyshawnx/Cloud-Techniques/blob/main/Labs/010-setting-up-a-2-tier-architecture-in-azure/Azure-Two-Tier-Architecture-Lab.md">Azure Two-Tier Architecture</a> |
 
 ## Cybersecurity
 | Description | Associated Project |
