@@ -1,5 +1,5 @@
 # Hello, I'm SHAWN
-<a href="https://www.linkedin.com/in/dthomas1906"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/madebyshawnt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m deeply interested in technology and love solving complex problems. Checkout some of the exciting projects I've been working on!
 
