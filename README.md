@@ -10,7 +10,7 @@ Enterprise labs simulating identity infrastructure for authentication, authoriza
  
 | Description | Associated Project |
 |---|---|
-| Complete IAM environment covering authentication, authorization, hybrid identity, and the full identity lifecycle | [Enterprise Identity Platform](
+| Complete IAM environment covering authentication, authorization, hybrid identity, and the full identity lifecycle | [Enterprise Identity Platform](https://github.com/madebyshawnx/CyberRange/tree/main/Contoso-Enterprise-Identity-Platform) |
 | Administering Active Directory at enterprise scale | [Enterprise Active Directory Infrastructure](
 | Automating user and role management in Microsoft Entra ID with PowerShell | [Entra ID Automation](
 | Securing Kerberos authentication and SQL service accounts | [Kerberos & SQL Authentication](
