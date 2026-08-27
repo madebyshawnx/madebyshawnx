@@ -31,8 +31,8 @@ Building and investigating enterprise security incidents with Microsoft Sentinel
 | Hunting TOR usage across an enterprise environment | [TOR Threat Hunt](https://github.com/madebyshawnx/CyberRange/tree/main/threat-hunting-scenario) | 
 | Detecting password spraying in Active Directory | [Password Spray Detection](https://github.com/madebyshawnx/CyberRange/tree/main/Password-Spraying-Detection-in-Active-Directory) | 
 | Monitoring API behavior for anomalous activity | [API Threat Analytics](https://github.com/madebyshawnx/CyberRange/tree/main/API-Behavior-Monitoring-Script-lab-tiach) | 
-| SIEM implementation, log analysis, network traffic monitoring, and attack detection | Detection Lab *(write-up in progress)* |
-| Security automation with Shuffle SOAR, incident response execution, case management with TheHive, and scripting for threat mitigation | SOC Automation Lab (write-up in progress) |
+| SIEM implementation, log analysis, network traffic monitoring, and attack detection | Detection Lab (pending) |
+| Security automation with Shuffle SOAR, incident response execution, case management with TheHive, and scripting for threat mitigation | SOC Lab (pending) |
  
 ## Vulnerability Management & Security Hardening
  
@@ -41,7 +41,7 @@ Reducing organizational risk through vulnerability management, compliance, and s
 | Description | Associated Project |
 |---|---|
 | Running a full vulnerability management program end to end | [Vulnerability Management Program](https://github.com/madebyshawnx/CyberRange/tree/main/vulnerability-management-program--main) | 
-| Hardening systems against DISA STIG benchmarks | [DISA STIG Hardening](write-up in progress)
+| Hardening systems against DISA STIG benchmarks | [DISA STIG Hardening](pending)
 | Running Tenable vulnerability scans on a Windows VM in Azure | [Tenable Scans (Azure)](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure) |
 | Running Tenable vulnerability scans on a Linux VM | [Tenable Scans (Linux)](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/009-running-vulnerability-scans-on-a-Linux-virtual-machine) |
  
