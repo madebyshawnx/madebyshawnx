@@ -87,7 +87,5 @@ Enterprise infrastructure supporting ticketing, user support, and operational wo
   <img src="https://img.shields.io/badge/-PSPO%20I-0072C6?&style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSPO I" />
   <img src="https://img.shields.io/badge/-Prosci%20ADKAR-00A651?&style=for-the-badge&logoColor=white" alt="Prosci ADKAR" />
 </div>
-## Connect With Me
  
-<a href="https://www.linkedin.com/in/madebyshawnt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- 
+
