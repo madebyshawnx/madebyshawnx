@@ -1,8 +1,6 @@
-<img src="./banner.svg" alt="Welcome to my GitHub — Shawn Thomas, Product Management | Cybersecurity | Cloud Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/madebyshawnx/CyberRange/main/Asset/homebanner.svg" width="100%" />
 
 I'm deeply interested in technology and love solving complex problems, with a focus on the ever-evolving landscape of IT and cybersecurity. Everything below is a lab I built and documented end to end : setup, execution, and findings. Have a look at the work and the operations and processes it improves.
-
-<a href="https://www.linkedin.com/in/madebyshawnt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ---
 
