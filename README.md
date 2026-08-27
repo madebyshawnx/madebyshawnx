@@ -14,8 +14,8 @@ Enterprise labs simulating identity infrastructure for authentication, authoriza
 | Administering Active Directory at enterprise scale | [Enterprise Active Directory Infrastructure](https://github.com/madebyshawnx/CyberRange/tree/main/Active-Directory-Enterprise-Administration) |
 | Automating user and role management in Microsoft Entra ID with PowerShell | [Entra ID Automation](https://github.com/madebyshawnx/CyberRange/tree/main/Automating-User-Role-Management-in-Microsoft-Entra-ID-with-PowerShell) |
 | Securing Kerberos authentication and SQL service accounts | [Kerberos & SQL Authentication](https://github.com/madebyshawnx/CyberRange/tree/main/Active-Directory-Kerberos-Authentication-SQL-Service-Account-Security-Lab) |
-| Standing up an Azure AD tenant and enforcing MFA | [Azure Identity Security](
-| Building an Active Directory domain on Azure virtual machines | [AD on Azure VMs](
+| Standing up an Azure AD tenant and enforcing MFA | [Azure Identity Security](https://github.com/madebyshawnx/CyberRange/tree/main/Azure-AD-Tenant-and-MFA-Setup) |
+| Building an Active Directory domain on Azure virtual machines | [AD on Azure VMs](https://github.com/madebyshawnx/CyberRange/tree/main/configure-ad-main) |
 | Configuring Active Directory Domain Services on AWS EC2 | [AD DS Configuration](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/002-aws-ec2-configure-active-directory-adds) |
 | Creating and organizing users, OUs, and groups in Active Directory | [AD Users, OUs & Groups](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/003-active-directory-create-users-ous-groups) |
 | Bulk-provisioning Active Directory users with PowerShell | [AD Bulk Provisioning](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/006-active-directory-provision-users-powershell) |
@@ -52,7 +52,7 @@ Deploying, securing, and recovering workloads across AWS and Azure — from a si
 | Description | Associated Project |
 |---|---|
 | Deploying a two-tier architecture in Azure | [Azure Two-Tier Architecture](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/010-setting-up-a-2-tier-architecture-in-azure) |
-| Controlling traffic with Azure network security groups | [NSG Configuration](
+| Controlling traffic with Azure network security groups | [NSG Configuration](https://github.com/madebyshawnx/CyberRange/tree/main/azure-network-protocols-main) |
 | Deploying a Windows VM on AWS EC2 and connecting over RDP | [EC2 Windows VM](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/001-aws-ec2-launch-windows-vm-rdp) |
 | Recovering EC2 access after losing a key pair | [EC2 Key Recovery](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/004-aws-ec2-lost-key-pair-recovery) |
 | Hosting a static website on Azure | [Azure Static Site](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/007-how-to-host-a-static-website) |
