@@ -47,7 +47,7 @@ Reducing organizational risk through vulnerability management, compliance, and s
  
 ## Cloud Engineering
  
-Deploying, securing, and recovering workloads across AWS and Azure — from a single VM to a multi-tier architecture.
+Deploying, securing, and recovering workloads across AWS and Azure from a single VM to a multi-tier architecture.
  
 | Description | Associated Project |
 |---|---|
