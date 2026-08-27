@@ -11,9 +11,9 @@ Enterprise labs simulating identity infrastructure for authentication, authoriza
 | Description | Associated Project |
 |---|---|
 | Complete IAM environment covering authentication, authorization, hybrid identity, and the full identity lifecycle | [Enterprise Identity Platform](https://github.com/madebyshawnx/CyberRange/tree/main/Contoso-Enterprise-Identity-Platform) |
-| Administering Active Directory at enterprise scale | [Enterprise Active Directory Infrastructure](
-| Automating user and role management in Microsoft Entra ID with PowerShell | [Entra ID Automation](
-| Securing Kerberos authentication and SQL service accounts | [Kerberos & SQL Authentication](
+| Administering Active Directory at enterprise scale | [Enterprise Active Directory Infrastructure](https://github.com/madebyshawnx/CyberRange/tree/main/Active-Directory-Enterprise-Administration) |
+| Automating user and role management in Microsoft Entra ID with PowerShell | [Entra ID Automation](https://github.com/madebyshawnx/CyberRange/tree/main/Automating-User-Role-Management-in-Microsoft-Entra-ID-with-PowerShell) |
+| Securing Kerberos authentication and SQL service accounts | [Kerberos & SQL Authentication](https://github.com/madebyshawnx/CyberRange/tree/main/Active-Directory-Kerberos-Authentication-SQL-Service-Account-Security-Lab) |
 | Standing up an Azure AD tenant and enforcing MFA | [Azure Identity Security](
 | Building an Active Directory domain on Azure virtual machines | [AD on Azure VMs](
 | Configuring Active Directory Domain Services on AWS EC2 | [AD DS Configuration](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/002-aws-ec2-configure-active-directory-adds) |
