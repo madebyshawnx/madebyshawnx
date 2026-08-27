@@ -26,13 +26,13 @@ Building and investigating enterprise security incidents with Microsoft Sentinel
  
 | Description | Associated Project |
 |---|---|
-| Reconstructing an endpoint compromise in Defender XDR | [Defender XDR Investigation](
-| Investigating a Microsoft 365 business email compromise and MFA fatigue attack | [BEC Investigation](
-| Hunting TOR usage across an enterprise environment | [TOR Threat Hunt](
-| Detecting password spraying in Active Directory | [Password Spray Detection](
-| Monitoring API behavior for anomalous activity | [API Threat Analytics](
+| Reconstructing an endpoint compromise in Defender XDR | [Defender XDR Investigation](https://github.com/madebyshawnx/CyberRange/tree/main/Enterprise-Endpoint-Compromise-Investigation-and-Attack-Reconstruction) |
+| Investigating a Microsoft 365 business email compromise and MFA fatigue attack | [BEC Investigation](https://github.com/madebyshawnx/CyberRange/tree/main/Microsoft-365-Business-Email-Compromise-MFA-Fatigue) |
+| Hunting TOR usage across an enterprise environment | [TOR Threat Hunt](https://github.com/madebyshawnx/CyberRange/tree/main/threat-hunting-scenario) | 
+| Detecting password spraying in Active Directory | [Password Spray Detection](https://github.com/madebyshawnx/CyberRange/tree/main/Password-Spraying-Detection-in-Active-Directory) | 
+| Monitoring API behavior for anomalous activity | [API Threat Analytics](https://github.com/madebyshawnx/CyberRange/tree/main/API-Behavior-Monitoring-Script-lab-tiach) | 
 | SIEM implementation, log analysis, network traffic monitoring, and attack detection | Detection Lab *(write-up in progress)* |
-| Security automation with Shuffle SOAR, incident response execution, case management with TheHive, and scripting for threat mitigation | SOC Automation Lab *(write-up in progress)* |
+| Security automation with Shuffle SOAR, incident response execution, case management with TheHive, and scripting for threat mitigation | SOC Automation Lab (write-up in progress) |
  
 ## Vulnerability Management & Security Hardening
  
@@ -40,8 +40,8 @@ Reducing organizational risk through vulnerability management, compliance, and s
  
 | Description | Associated Project |
 |---|---|
-| Running a full vulnerability management program end to end | [Vulnerability Management Program](
-| Hardening systems against DISA STIG benchmarks | [DISA STIG Hardening](
+| Running a full vulnerability management program end to end | [Vulnerability Management Program](https://github.com/madebyshawnx/CyberRange/tree/main/vulnerability-management-program--main) | 
+| Hardening systems against DISA STIG benchmarks | [DISA STIG Hardening](write-up in progress)
 | Running Tenable vulnerability scans on a Windows VM in Azure | [Tenable Scans (Azure)](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/008-setting-up-a-virtual-machine-and-running-tenable-vulnerability-scans-in-azure) |
 | Running Tenable vulnerability scans on a Linux VM | [Tenable Scans (Linux)](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/009-running-vulnerability-scans-on-a-Linux-virtual-machine) |
  
@@ -63,9 +63,9 @@ Enterprise infrastructure supporting ticketing, user support, and operational wo
  
 | Description | Associated Project |
 |---|---|
-| Deploying osTicket and its prerequisites | [osTicket Deployment](
-| Configuring help desk roles, teams, and SLAs post-install | [Help Desk Workflow](
-| Working tickets through the full lifecycle | [Ticket Lifecycle Management](
+| Deploying osTicket and its prerequisites | [osTicket Deployment](https://github.com/madebyshawnx/CyberRange/tree/main/osticket-prereqs-main) | 
+| Configuring help desk roles, teams, and SLAs post-install | [Help Desk Workflow](https://github.com/madebyshawnx/CyberRange/tree/main/post-install-config-main) | 
+| Working tickets through the full lifecycle | [Ticket Lifecycle Management](https://github.com/madebyshawnx/CyberRange/tree/main/ticket-lifecycle-main) | 
 | Automating ServiceNow ticket provisioning with PowerShell | [ServiceNow Provisioning](https://github.com/madebyshawnx/Cloud-Techniques/tree/main/Labs/005-servicenow-provision-tickets-powershell) |
  
 ## Artificial Intelligence / Machine Learning
