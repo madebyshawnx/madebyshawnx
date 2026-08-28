@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/madebyshawnx/CyberRange/main/Asset/homebanner2.svg" width="100%" />
 
-# Welcome to my tech stack
 
-
-A collection of products, labs, and learning artifacts I have personally designed, built, tested, and deployed across product, AI, IT, the cloud and cybersecurity. Some are live and out in the wild. Others show how I explore ideas, solve problems, and turn what I learn into useful products.
+My tech stack is a collection of products, labs, and learning artifacts I have personally designed, built, tested, and deployed across product management , AI, IT, the cloud and cybersecurity. Some are live and out in the wild, while others show how I explore ideas and solve problems.
 
 **Click around. Explore the work. See how I think, build, and ship.**
 
