@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/madebyshawnx/CyberRange/main/Asset/homebanner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/madebyshawnx/CyberRange/main/Asset/homebanner2.svg" width="100%" />
 
 # Welcome to my tech stack
 
