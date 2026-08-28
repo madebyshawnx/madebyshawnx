@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/madebyshawnx/CyberRange/main/Asset/homebanner.svg" width="100%" />
 
-Welcome to my tech stack.
+# Welcome to my tech stack.
 
-This repository is a living collection of things I have personally designed, built, tested, and deployed. Some are complete products that are out in the wild and being used today. Others are product workflows, hands on labs, prototypes, technical experiments, or learning artifacts I created to explore a new technology and document what I discovered.
 
-The projects span artificial intelligence, product management, workflow automation, IT, and cybersecurity. Each one tells a different story. You can explore the problem I started with, the decisions I made, how I built and tested the solution, what I learned, and the products, processes, or operations it could improve.
+A collection of products, labs, and learning artifacts I have personally designed, built, tested, and deployed across product, AI, IT, the cloud and cybersecurity. Some are live and out in the wild. Others show how I explore ideas, solve problems, and turn what I learn into useful products.
 
-Click around. Open a live product. Explore a repository. Review a workflow. Dig into a lab. See what worked, what changed, and what I would build next.
-
-This is more than a collection of code. It is a look at how I think, learn, build, ship, and turn complex ideas into useful products.
-
+**Click around. Explore the work. See how I think, build, and ship.**
 
 ---
 
